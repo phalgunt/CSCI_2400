@@ -1,0 +1,6 @@
+And they have no disregard for human life.
+1 2 4 8 16 32
+2 541
+4 2
+5 115
+6 3 4 1 2 5
