@@ -1,3 +1,4 @@
+Worked on this using command line, did not make changes to code files. Answers can be found under solutions file.
 # lab2-bomblab
 Repository into which students should add their bomb lab. You should commit the changes to your attack string as you finish each phase of your bomb lab.
 
