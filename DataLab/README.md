@@ -1,3 +1,4 @@
+Files edited: bits.c bits.h
 # CSCI 2400 - Computer Systems - Data Lab: Manipulating Bits
 
 ## Introduction
